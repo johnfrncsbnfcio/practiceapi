@@ -1,0 +1,32 @@
+{
+    "employees": [
+        {
+            "firstName": "John",
+            "lastName": "Doe"
+        },
+        {
+            "firstName": "Anna",
+            "lastName": "Smith"
+        },
+        {
+            "firstName": "Peter",
+            "lastName": "Jones"
+        },
+        {
+            "firstName": "John Francis",
+            "lastName": "Bonifacio"
+        },
+        {
+            "firstName": "Ronald",
+            "lastName": "Bonifacio"
+        },
+        {
+            "firstName": "Christian",
+            "lastName": "Bonifacio"
+        },
+        {
+            "firstName": "Bilog Orange",
+            "lastName": "Bonifacio"
+        }
+    ]
+}

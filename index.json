@@ -1,33 +1,30 @@
-header("Content-Security-Policy: default-src *; style-src 'self' 'unsafe-inline'; font-src 'self' data:; script-src 'self' 'unsafe-inline' 'unsafe-eval' stackexchange.com");
-{
-    "employees": [
-        {
-            "firstName": "John",
-            "lastName": "Doe"
-        },
-        {
-            "firstName": "Anna",
-            "lastName": "Smith"
-        },
-        {
-            "firstName": "Peter",
-            "lastName": "Jones"
-        },
-        {
-            "firstName": "John Francis",
-            "lastName": "Bonifacio"
-        },
-        {
-            "firstName": "Ronald",
-            "lastName": "Bonifacio"
-        },
-        {
-            "firstName": "Christian",
-            "lastName": "Bonifacio"
-        },
-        {
-            "firstName": "Bilog Orange",
-            "lastName": "Bonifacio"
-        }
-    ]
-}
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe"
+    },
+    {
+        "firstName": "Anna",
+        "lastName": "Smith"
+    },
+    {
+        "firstName": "Peter",
+        "lastName": "Jones"
+    },
+    {
+        "firstName": "John Francis",
+        "lastName": "Bonifacio"
+    },
+    {
+        "firstName": "Ronald",
+        "lastName": "Bonifacio"
+    },
+    {
+        "firstName": "Christian",
+        "lastName": "Bonifacio"
+    },
+    {
+        "firstName": "Bilog Orange",
+        "lastName": "Bonifacio"
+    }
+]
